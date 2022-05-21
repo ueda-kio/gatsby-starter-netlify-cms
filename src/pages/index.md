@@ -1,21 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Gatsby と NetlifyCMS のテスト
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Gatsby と NetlifyCMS のテスト
+subheading: サブタイトルを設定可能です
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: 編集したタイトル
+  description: 自由にテキストを設定可能です
+description: CMSからダミーのテキストを入力しています
 intro:
   blurbs:
     - image: /img/coffee.png
